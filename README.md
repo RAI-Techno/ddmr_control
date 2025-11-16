@@ -25,7 +25,7 @@ This repository provides complete training and evaluation scripts for both the S
 
 
 ## Dataset
-The dataset used in this project was gathered from a real differential-drive mobile robot during approximately one hour of movement. It contains about 33,800 samples, capturing how the robot responds dynamically to motor voltage commands.
+The dataset used in this project was gathered from a real differential-drive mobile robot during approximately one hour of movement. It contains about 338,000 samples, capturing how the robot responds dynamically to motor voltage commands.
 The goal is to allow researchers, practitioners, and students to accurately model and simulate the robot’s motion by learning the mapping: motors voltage → wheels angular velocity
 
 The dataset is stored as a CSV file with the following structure:
